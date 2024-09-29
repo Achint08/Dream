@@ -50,3 +50,5 @@ We have provided a Colab notebook for you to easily generate videos with Dream. 
     -   [CogVideo Project by Tsinghua University](https://github.com/THUDM/CogVideo) was used to help create Dream.
     -   OpenAI's powerful APIs are integral to generating AI-powered video content.
 -   **Hugging Face** for their amazing [AI model hub](https://huggingface.co), providing support and resources for developers and researchers.
+
+  ## Made with 💓 in California
