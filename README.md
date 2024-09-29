@@ -10,6 +10,11 @@ Generated AI Videos
 
 Dream is fully functional and **already generates AI-produced videos**. You can see examples of these videos below, showcasing the powerful capabilities of the AI. Feel free to use Dream to create your own magical video experiences!
 
+| Mars Colony | How Internet Works? | Titanic Sinking |
+|--------|--------|--------|
+| [![Mars Colony](https://img.youtube.com/vi/IGXhbMyBAoE/0.jpg)](https://www.youtube.com/watch?v=IGXhbMyBAoE) | [![How Internet Works?](https://img.youtube.com/vi/qYlfVug500c/0.jpg)](https://www.youtube.com/watch?v=qYlfVug500c) | [![Titanic Sinking](https://img.youtube.com/vi/q0KElpWHT3g/0.jpg)](https://www.youtube.com/watch?v=q0KElpWHT3g) |
+
+
 Colab Notebook
 --------------
 
